@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="cpgatetest"
+  id="myeclipse.1409710940700"
+  context-root="/cpgatetest"
+  j2ee-spec="5.0"
+  archive="cpgatetest.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
